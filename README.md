@@ -17,8 +17,10 @@ To implement this framework, following tools are required:
   - Maven for Java
 
 **Project Setup:** 
-Create a local repository folder (for example: C:\cardGame) Download the cardGame.zip from repository https://github.com/ssyed009/cardGame/ 
-Extract all files in local repository. 
+Create a local repository folder (for example: C:\cardGame) Download the cardGame.zip from repository https://github.com/ssyed009/cardGame/
+
+Extract all files in local repository.
+
 Open VSCode and select File >> Open Folder , select the local folder and click Select Folder.
 
 **Framework Implementation:**
